@@ -2,7 +2,7 @@
     font-family: 'WONBatang';
     src: asset-url('WONBatang.eot');
     src: asset-url('WONBatang.eot?#iefix') format('embedded-opentype'),
-    asset-url('WONBatang.woff') format('woff');
+    asset-url('https://cdn.rawgit.com/mingyoon/hanfont/6db035df/WONBatang.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     }
@@ -10,7 +10,7 @@
     font-family: 'WONDotum';
     src: asset-url('WONDotum.eot');
     src: asset-url('WONDotum.eot?#iefix') format('embedded-opentype'),
-          asset-url('WONDotum.woff') format('woff');
+          asset-url('https://cdn.rawgit.com/mingyoon/hanfont/6db035df/WONDotum.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
